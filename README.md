@@ -22,7 +22,7 @@ I'm Arshed from Sri Lanka, and I do Design and Development. I'm an undergraduate
 PHP / JS / Node JS / HTML / CSS / Laravel
 
 ### Follow me on :
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arshed-ahmed-19960229a/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height=30'>](https://www.linkedin.com/in/arshed-ahmed-19960229a/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Arshed-Ahmed)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/arshedahmed)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_ArshedAhmed)
