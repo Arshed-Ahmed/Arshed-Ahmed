@@ -46,7 +46,7 @@ I'm Arshed from Sri Lanka, and I do Design and Development. I'm an undergraduate
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/arshed-ahmed-19960229a/)
 [<img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/arshed_ahmed/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' align='left' width='20px'>](https://dev.to/arshedahmed)
-<br>
+<br />
 <hr>
 
 ### Bagdes :
@@ -54,7 +54,7 @@ I'm Arshed from Sri Lanka, and I do Design and Development. I'm an undergraduate
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='30' height='30'></a>
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='30' height='30'></a>
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='30' height='30'></a>
-<br>
+<br />
 <hr>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshed-Ahmed&show_icons=true)  
