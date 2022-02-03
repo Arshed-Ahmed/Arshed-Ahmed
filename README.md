@@ -20,7 +20,7 @@ I'm Arshed from Sri Lanka, and I do Software Design and Development. I'm an unde
 - 💬 Ask me about anything related to IT or Mathematics 
 - 🥅 Goals: Contribute to Open Source projects
 
-- 📫 How to reach me: mailto:arshedahmed98@gmail.com
+- 📫 How to reach me: arshedahmed98@gmail.com
 
 - ⚡ Fun fact: Eat and than sleep, annoy the old grumpy cat, start a fight with it and then retreat to wash when I lose and I shall purr myself to sleep or run around the house at 4 in the morning. Then, When the world ends, the coders will go "FINALLY ITS DONE".
 
