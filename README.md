@@ -61,7 +61,6 @@ I'm Arshed from Sri Lanka, and I do Software Design and Development. I'm an unde
 <br />
 <hr>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshed-Ahmed&show_icons=true)  
 <br>
 Visit me: https://arshed-ahmed.github.io/Arshed-Ahmed/
 
