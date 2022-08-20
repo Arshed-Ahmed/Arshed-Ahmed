@@ -90,5 +90,5 @@ Visit me: https://arshed-ahmed.github.io/Arshed-Ahmed/
 
 <br />
 
-``last update: 09th of January 2022``
+``last update: 21th of August 2022``
 
