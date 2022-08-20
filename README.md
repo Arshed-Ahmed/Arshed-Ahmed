@@ -1,10 +1,8 @@
-# ``Hola Amigos!`` 👋
-#### Design and Development
-I'm Arshed from Sri Lanka, and I do Software Design and Development. I'm an undergraduate who enjoys travelling and learning new languages and frameworks, as well as coding.
+# ``Hola`` Amigos! 👋
+#### Software Engineer
+A Software Engineer from Sri Lanka, with passion and who enjoys travelling and coding. And into Dark Mode... and loves black.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshed-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="arshed-ahmed" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshed-ahmed" alt="arshed-ahmed" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_arshedahmed" target="blank"><img src="https://img.shields.io/twitter/follow/_arshedahmed?logo=twitter&style=for-the-badge" alt="_arshedahmed" /></a> </p>
 
@@ -50,9 +48,11 @@ I'm Arshed from Sri Lanka, and I do Software Design and Development. I'm an unde
 
 ### Bagdes :
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='30' height='30'></a>
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='30' height='30'></a>
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='30' height='30'></a>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='30' height='30' style="margin:5px"></a>
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='30' height='30' style="margin:5px"></a>
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='30' height='30' style="margin:5px"></a>
+<br />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshed-ahmed" alt="arshed-ahmed" /></a> </p>
 <br />
 <hr>
 
@@ -74,18 +74,20 @@ I'm Arshed from Sri Lanka, and I do Software Design and Development. I'm an unde
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=red)
 
 
-<br>
-Visit me: https://arshed-ahmed.github.io/Arshed-Ahmed/
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/arshedahmed"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arshedahmed" /></a></p><br><br>
-
-``last update: 09th of January 2022``
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshed-ahmed&show_icons=true&locale=en&layout=compact" alt="arshed-ahmed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshed-ahmed&show_icons=true&locale=en" alt="arshed-ahmed" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshed-ahmed&show_icons=true&locale=en" alt="arshed-ahmed" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshed-ahmed&" alt="arshed-ahmed" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshed-ahmed&" alt="arshed-ahmed" /></p> -->
+<br>
+<hr />
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/arshedahmed"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arshedahmed" /></a></p><br>
+<br />
+<hr>
+<br />
+Visit me: https://arshed-ahmed.github.io/Arshed-Ahmed/
+<br />
+``last update: 09th of January 2022``
 
