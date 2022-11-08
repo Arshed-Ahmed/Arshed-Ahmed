@@ -8,6 +8,8 @@ A Software Engineer from Sri Lanka, with passion and who enjoys travelling and c
 
 - 🔭 I’m currently working on [Fashion Tailoring Management System](https://github.com/Arshed-Ahmed/FTMS)
 
+- 🎓 I’m an undergraduate from [Sabaragamuwa University of Sri Lanka](https://sab.ac.lk/)
+
 - 🌱 I’m currently learning **AWS as well as python( also Django)**
 
 - 👯 I’m looking to collaborate with **React and Django developers**
@@ -62,7 +64,7 @@ A Software Engineer from Sri Lanka, with passion and who enjoys travelling and c
   <br/>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-flat&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white") ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 <br/>
-![openCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-flat&logo=opencv&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=fflat&logo=jquery&logoColor=white")
+![openCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-flat&logo=opencv&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=fflat&logo=jquery&logoColor=white") ![ReactJS](https://img.shields.io/badge/-ReactJS-%61DAFB.svg?style=fflat&logo=jquery&logoColor=white")
 <br/>
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![djangoRESTframework](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)<br/>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C) ![Flutter](https://img.shields.io/badge/Flutter-02569B?styleflat&logo=flutter&logoColor=white)<br/>
