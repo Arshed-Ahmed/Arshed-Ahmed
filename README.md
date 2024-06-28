@@ -8,13 +8,13 @@ A Software Engineer from Sri Lanka, with passion and who enjoys travelling and c
 
 - 🔭 I’m currently working on [Fashion Tailoring Management System](https://github.com/Arshed-Ahmed/FTMS)
 
-- 🎓 I’m an undergraduate from [Sabaragamuwa University of Sri Lanka](https://sab.ac.lk/)
+- 🎓 I’m an graduate from [Sabaragamuwa University of Sri Lanka](https://sab.ac.lk/)
 
-- 🌱 I’m currently learning **AWS as well as python( also Django)**
+- 🌱 I’m currently learning **AWS as well as MERN**
 
-- 👯 I’m looking to collaborate with **React and Django developers**
+- 👯 I’m looking to collaborate with **React and Python developers**
 
-- 🤝 I’m looking for help with **deep python understandings**
+- 🤝 I’m looking for help with **deep python understandings for AI and ML**
 
 - 👨‍💻 All of my projects are available at [#](#)
 
