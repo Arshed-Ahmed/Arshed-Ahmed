@@ -8,7 +8,7 @@ A Software Engineer from Sri Lanka, with passion and who enjoys travelling and c
 
 - 🔭 I’m currently working on [Fashion Tailoring Management System](https://github.com/Arshed-Ahmed/FTMS)
 
-- 🎓 I’m an graduate from [Sabaragamuwa University of Sri Lanka](https://sab.ac.lk/)
+- 🎓 I’m an undergraduate from [Sabaragamuwa University of Sri Lanka](https://sab.ac.lk/)
 
 - 🌱 I’m currently learning **AWS as well as MERN**
 
