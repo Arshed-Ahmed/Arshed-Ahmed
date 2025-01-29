@@ -6,9 +6,9 @@ A Software Engineer from Sri Lanka, with passion and who enjoys travelling and c
 
 <p align="left"> <a href="https://twitter.com/_arshedahmed" target="blank"><img src="https://img.shields.io/twitter/follow/_arshedahmed?logo=twitter&style=for-the-badge" alt="_arshedahmed" /></a> </p>
 
-- 🔭 I’m currently working on [Fashion Tailoring Management System](https://github.com/Arshed-Ahmed/FTMS)
+- 🔭 I’m currently working on [Fashion Tailoring Management System](https://github.com/Arshed-Ahmed/FTMS_MERN) in MERN stack, which is a project I did in PHP for my Uni Final year.
 
-- 🎓 I’m an undergraduate from [Sabaragamuwa University of Sri Lanka](https://sab.ac.lk/)
+- 🎓 I’m a graduate from [Sabaragamuwa University of Sri Lanka](https://sab.ac.lk/)
 
 - 🌱 I’m currently learning **AWS as well as MERN**
 
@@ -16,7 +16,7 @@ A Software Engineer from Sri Lanka, with passion and who enjoys travelling and c
 
 - 🤝 I’m looking for help with **deep python understandings for AI and ML**
 
-- 👨‍💻 All of my projects are available at [#](#)
+- 👨‍💻 All of my projects are available [Here](https://github.com/Arshed-Ahmed?tab=repositories)
 
 - 💬 Ask me about **React, Algorithms, Mathematics**
 
@@ -75,22 +75,16 @@ A Software Engineer from Sri Lanka, with passion and who enjoys travelling and c
 <br/>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=red)
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshed-ahmed&show_icons=true&locale=en&layout=compact" alt="arshed-ahmed" /></p>
-
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshed-ahmed&show_icons=true&locale=en" alt="arshed-ahmed" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshed-ahmed&" alt="arshed-ahmed" /></p> -->
 <br>
 <hr />
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/arshedahmed"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arshedahmed" /></a></p><br>
-<br />
-<hr>
+<p><a href="https://www.buymeacoffee.com/arshedahmed"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arshedahmed" /></a></p>
+<br>
+<hr />
 Visit me: https://arshed-ahmed.github.io/Arshed-Ahmed/
-
 <br />
-
-``last update: 21th of August 2022``
+```last update: 29th of January 2025```
 
