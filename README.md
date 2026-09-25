@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arshed Ahmed</h1>
+<h1 align="center">Hola 👋, I'm Arshed Ahmed</h1>
 
 <p align="center">
   <strong>Software Engineer | Full-Stack Developer | React • TypeScript • Python • Django • PostgreSQL</strong><br />
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://arshed-ahmed.github.io/Arshed-Ahmed/">Portfolio</a>
+  <a href="https://arshed-ahmed.netlify.app/">Portfolio</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/arshed-ahmed-19960229a/">LinkedIn</a>
   &nbsp;·&nbsp;
@@ -81,7 +81,7 @@ March 2021 – May 2021
 
 ## Connect
 
-- [Portfolio](https://arshed-ahmed.github.io/Arshed-Ahmed/)
+- [Portfolio](https://arshed-ahmed.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/arshed-ahmed/)
 - [X](https://twitter.com/_arshedahmed)
 - [DEV Community](https://dev.to/@arshedahmed)
